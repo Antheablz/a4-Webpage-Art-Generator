@@ -3,6 +3,8 @@ from typing import IO
 from enum import Enum
 import sys
 
+# @author Anthea Blais
+
 class Shapes(Enum):
     """ Enumerator shapes class"""
     CIRCLE = 0

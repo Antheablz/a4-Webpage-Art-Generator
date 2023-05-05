@@ -3,6 +3,7 @@ from enum import Enum
 import random as rd
 import sys
 
+# @author Anthea Blais
 
 class Shapes(Enum):
     """ Enum class for different shapes"""
